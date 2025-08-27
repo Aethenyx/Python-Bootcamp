@@ -1,0 +1,7 @@
+Install the following extensions ot make your python journey smoother:
+1. Syntax Highlighter by Evgeniy Peshkov(optional)
+2. Code Runner by Jun Han (optional)
+3. python              - by microsoft -
+4. Pylance             - by microsoft   -
+5. Python Debugger     - by microsoft   -  all are installed if you install one extension
+6. Python Environments - by microsoft -
