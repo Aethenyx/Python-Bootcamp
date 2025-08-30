@@ -10,9 +10,16 @@
 
 age = 3
 print(age)
+print(type(age))
 
 name = "Aethenyx"
 print(name)
+print(type(name))
 
 cgpa  = 8.7
 print(cgpa)
+print(type(cgpa))
+
+is_complete = True # can also be False
+print(is_complete)
+print(type(is_complete))
